@@ -5,4 +5,8 @@ defmodule CardsTest do
   # test "the truth" do
   #   assert 1 + 1 == 2
   # end
+  test "create_deck make 20 cards" do
+    deck_length = length(Cards.create_deck)
+    assert deck_length == 20
+  end
 end
