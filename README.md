@@ -1,6 +1,8 @@
 # Cards
 
-**TODO: Add description**
+Elixir Cards Demo based on:
+
+[Elixir/Phoenix Tutorial](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial)
 
 ## Installation
 
@@ -16,4 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/cards](https://hexdocs.pm/cards).
-
